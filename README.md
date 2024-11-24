@@ -1,4 +1,4 @@
-# [Your Name]'s Personal Website
+# Ryan Barnett's Personal Website
 
 Welcome to my personal website! This site is a showcase of my work, interests, and projects. It reflects my passion for building applications and solving problems in innovative ways.
 
@@ -28,7 +28,7 @@ One of my key goals is to build applications that help solve real-world challeng
 
 ## 👩‍💻 How to Use
 
-This website is live at: [https://yourusername.github.io](https://yourusername.github.io)
+This website is live at: [https://ryandbarnett.github.io/personal-website/](https://ryandbarnett.github.io/personal-website/)
 
 Feel free to explore the site and learn more about me and my work.
 
@@ -39,5 +39,5 @@ While this is a personal project, I welcome feedback and suggestions! If you hav
 ## 📬 Contact
 
 - Email: [conner2468@gmail.com](mailto:conner2468@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [ryan-barnett-dev](https://www.linkedin.com/in/ryan-barnett-dev/)
+- GitHub: [ryandbarnett](https://github.com/ryandbarnett)
