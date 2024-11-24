@@ -7,13 +7,12 @@ Welcome to my personal website! This site is a showcase of my work, interests, a
 This website is a platform where I:
 - Share my projects and accomplishments.
 - Highlight my skills in building mobile and web applications.
-- Provide a glimpse into my journey as a [developer/student/etc.].
+- Provide a glimpse into my journey as a developer and student.
 - Explore solutions to benefit my college community and beyond.
 
 ## 🚀 Features
 
 - **Portfolio Section**: Showcasing projects I’ve worked on.
-- **Blog (if applicable)**: Sharing my thoughts on technology and development.
 - **Contact Page**: Making it easy to reach out for collaborations or opportunities.
 
 ## 🛠️ Technologies Used
