@@ -4,9 +4,6 @@
 # Node.js dependencies
 node_modules/
 
-# Build outputs (if applicable)
-public/
-
 # Log files
 *.log
 npm-debug.log*
