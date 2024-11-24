@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@codersrank/summary": "^0.9.13",
+    "puppeteer": "^23.9.0"
+  }
+}
